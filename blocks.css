@@ -1,0 +1,49 @@
+#reset{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color:grey ;
+    font-size: 50px;
+}
+
+.blue{
+    margin:0 auto;
+    width: 1000px;
+    height: 400px;
+    background-color: blue;
+    align-items: center;
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+
+.purple{
+    margin: 0 auto;
+    width: 1000px;
+    height: 400px;
+    background-color: purple;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.grey{
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: gray;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    height: 200px;
+    margin:0px 30px;
+    
+    
+}
+
